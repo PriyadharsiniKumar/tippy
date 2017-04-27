@@ -10,7 +10,6 @@ Gem::Specification.new do |spec|
   spec.email         = ["kumarpriya0101@gmail.com"]
 
   spec.summary       = %q{To create a tippy}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
   spec.homepage      = "https://github.com/PriyadharsiniKumar/tippy"
   spec.license       = "MIT"
 
